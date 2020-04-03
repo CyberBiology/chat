@@ -93,8 +93,20 @@ https://optozorax.github.io/crabots/www_0.2.8/index.html?k=true
 https://github.com/MrOmnomnoshka/Genetic-Algorithms
 
 ## Сергей Фирсов
-BacterialSim - симуляций жизни и развития бактериальной колонии. Мутационная изменчивость, влияние внешней среды и многое другое.
+BacterialSim - симуляций жизни и развития бактериальной колонии.
+Проект преследует следующие цели:
+  +Моделирование мутационной изменчивости.
+  +Влияние окружающей среды на изменчивость.
+  +Построение замкнутой экосистемы.
+  +Формирование взаимодействия между клетками.
+
 https://github.com/SergeyFi/BacterialSim
+
+Демонстрация бинарного деления:
+https://youtu.be/hW4k6FEcNGk
+
+Демонстрация движения:
+https://youtu.be/tScBNoew2s8
 
 ![](/img/BacterialSim.jpg)
 
