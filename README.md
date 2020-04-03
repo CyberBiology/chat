@@ -96,6 +96,8 @@ https://github.com/MrOmnomnoshka/Genetic-Algorithms
 BacterialSim - симуляций жизни и развития бактериальной колонии.Мутационная изменчивость, влияение внещней среды и многое другое.
 https://github.com/SergeyFi/BacterialSim
 
+![](/img/BacterialSim.jpg)
+
 # Проблемы симуляции ботов
 
 ## Изотропность пространства
