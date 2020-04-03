@@ -103,7 +103,7 @@ https://github.com/MrOmnomnoshka/Genetic-Algorithms
 https://github.com/SergeyFi/BacterialSim
 
 Демонстрация бинарного деления:
-https://youtu.be/hW4k6FEcNGk
+[![](http://img.youtube.com/vi/hW4k6FEcNGk/0.jpg)](http://www.youtube.com/watch?v=hW4k6FEcNGk "")
 
 Демонстрация движения:
 https://youtu.be/tScBNoew2s8
