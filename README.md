@@ -92,6 +92,23 @@ https://optozorax.github.io/crabots/www_0.2.8/index.html?k=true
 
 https://github.com/MrOmnomnoshka/Genetic-Algorithms
 
+## Сергей Фирсов
+**BacterialSim** - симуляций жизни и развития бактериальной колонии.
+Проект преследует следующие цели:
+  * Моделирование мутационной изменчивости.
+  * Влияние окружающей среды на изменчивость.
+  * Построение замкнутой экосистемы.
+  * Формирование взаимодействия между клетками.
+
+https://github.com/SergeyFi/BacterialSim
+
+
+[![](http://img.youtube.com/vi/hW4k6FEcNGk/0.jpg)](http://www.youtube.com/watch?v=hW4k6FEcNGk "")
+
+[![](http://img.youtube.com/vi/tScBNoew2s8/0.jpg)](http://www.youtube.com/watch?v=tScBNoew2s8 "")
+
+![](/img/BacterialSim.jpg)
+
 # Проблемы симуляции ботов
 
 ## Изотропность пространства
