@@ -92,6 +92,13 @@ https://optozorax.github.io/crabots/www_0.2.8/index.html?k=true
 
 https://github.com/MrOmnomnoshka/Genetic-Algorithms
 
+## Михаил Иосилевич aka yosik
+
+Небольшой проект, основной целью которого является симуляция многоклеточных организмов. На данный момент такого функционала еще нет, но ожидается в далеком будущем.
+Проект написан на [Rust](rust-lang.org) с использованием библиотеки [Ruscii](crates.io/crates/ruscii).
+Лицензирован под GPLv3.
+https://codeberg.org/yosik/multicell
+
 # Проблемы симуляции ботов
 
 ## Изотропность пространства
