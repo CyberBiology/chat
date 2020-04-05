@@ -125,7 +125,7 @@ Genesis: краткое описание
 * Бот может атаковать других ботов.
 * Время жизни бота ограничено.
 
-<img src="./img/amyasnkov_genesis_v0.4.gif" alt="Genesis. Demo v0.4" width="50%"/>
+![Genesis. Demo v0.4](/img/amyasnkov_genesis_v0.4.gif)
 
 
 
